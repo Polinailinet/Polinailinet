@@ -1,7 +1,6 @@
-### Привет! Я, Полина! Начинающий аналитик 👋
+### Привет,я Полина, начинающий аналитик 👋
 
-<!--
-**Здесь собраны мои учебные проекты** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+(Здесь собраны мои учебные проекты)[ссылка]
 
 Here are some ideas to get you started:
 
