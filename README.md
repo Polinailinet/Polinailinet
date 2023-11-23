@@ -2,9 +2,9 @@
 
 [Здесь собраны мои проекты](https://github.com/Polinailinet/Portfolio)
 
-Here are some ideas to get you started:
+Мои контакты
 
--  https://t.me/
+- [telegram](https://t.me/@Polina_ili_da)
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
