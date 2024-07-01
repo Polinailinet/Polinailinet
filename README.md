@@ -11,9 +11,4 @@
 
 💬 Связаться со мной [telegram](https://t.me/Polina_ili_da)
 
-![GitHub Profile Picture](<https://github.com/username.png>)
-
-![Achievement 1](<https://example.com/ach1.png>)
-![Achievement 2](<https://example.com/ach2.png>)
-![Achievement 3](<https://example.com/ach3.png>)
 
