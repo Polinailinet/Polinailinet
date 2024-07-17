@@ -7,7 +7,7 @@
 
 :snake: python: pandas, numpy, matplotlib 
 
-:elephant: SQL MySQL
+:elephant: SQL PostgreSQL
 
 :woman_teacher: c 2010 до 2023 года работала в начальном образовании: вела уроки, проверяла тетради, готовила учеников к олимпиадам, конкурсам различных уровней где они всегда показывали высокие результаты 
 
