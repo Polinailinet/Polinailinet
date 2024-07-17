@@ -3,7 +3,9 @@
 
 :woman_technologist: Начинающий аналитик данных. Летом 2023 окончила курсы Яндекс Практикума. Открыта предложениям!
 
-:snake: python: pandas, numpy, matplotlib SQL диалект MySQL
+:snake: python: pandas, numpy, matplotlib 
+
+:elephant: SQL диалект MySQL
 
 :mortar_board: август 2023 [Первое место в СЗОФ окружном хакатоне среди новичков](https://2023.hacks-ai.ru/hackathons.html?eventId=969079&caseEl=993641&tab=3)
 
