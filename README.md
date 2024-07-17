@@ -5,7 +5,7 @@
 
 :snake: python: pandas, numpy, matplotlib 
 
-:elephant: SQL диалект MySQL
+:elephant: SQL MySQL
 
 :mortar_board: август 2023 [Первое место в СЗОФ окружном хакатоне среди новичков](https://2023.hacks-ai.ru/hackathons.html?eventId=969079&caseEl=993641&tab=3)
 
