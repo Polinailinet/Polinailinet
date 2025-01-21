@@ -7,6 +7,10 @@
 
 :infinity: [август - сентябрь 2024 стажировка в экосистеме Альфа](https://salfa.ru/)
 
+:iphone: [март 2024 — сентябрь 2024 работа в JEDAI](https://jedai.tech/)
+
+:high_brightness: []()
+
 :mortar_board: август 2023 [Первое место в СЗОФ окружном хакатоне среди новичков](https://2023.hacks-ai.ru/hackathons.html?eventId=969079&caseEl=993641&tab=3)
 
 :snake: python: pandas, numpy, matplotlib 
