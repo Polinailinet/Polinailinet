@@ -9,7 +9,7 @@
 
 :iphone: [март 2024 — сентябрь 2024 работа в JEDAI](https://jedai.tech/)
 
-:high_brightness: []()
+:high_brightness: [август 2023 - февраль 2024 ](https://starterapp.ru/)
 
 :mortar_board: август 2023 [Первое место в СЗОФ окружном хакатоне среди новичков](https://2023.hacks-ai.ru/hackathons.html?eventId=969079&caseEl=993641&tab=3)
 
